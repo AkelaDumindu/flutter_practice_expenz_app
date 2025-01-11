@@ -1,4 +1,4 @@
-# assignment_worker_app
+# flutter_expenz_app
 
 A new Flutter project.
 

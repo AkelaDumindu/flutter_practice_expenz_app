@@ -1,4 +1,4 @@
-package com.example.assignment_worker_app
+package com.example.flutter_expenz_app
 
 import io.flutter.embedding.android.FlutterActivity
 

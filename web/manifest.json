@@ -1,6 +1,6 @@
 {
-    "name": "assignment_worker_app",
-    "short_name": "assignment_worker_app",
+    "name": "flutter_expenz_app",
+    "short_name": "flutter_expenz_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
